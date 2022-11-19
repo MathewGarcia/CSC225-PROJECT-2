@@ -1,0 +1,17 @@
+body{
+    font-family: 'Ubuntu Condensed', sans-serif;
+}
+.nav-link{
+    font-family: 'Ubuntu Condensed', sans-serif;
+}
+.w-100{
+    width:100%;
+}
+.min-vh-65{
+    min-height:65vh;
+}
+.carousel-item {
+    height: 300px;
+    object-fit: cover;
+}
+  
